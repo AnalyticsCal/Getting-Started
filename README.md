@@ -10,6 +10,7 @@
         - [Editing files](#editing-files)
         - [Adding and commiting changes](#adding-and-commiting-changes)
         - [Pushing changes and submitting a Pull Request](#pushing-changes-and-submitting-a-pull-request)
+        - [Keeping your fork synced with this repository](#Keeping-your-fork-synced-with-this-repository)
     - [Workflow](#workflow)
 - [Resources](#resources)
 
