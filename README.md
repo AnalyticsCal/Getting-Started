@@ -105,7 +105,7 @@ Go to **step 7 [here](https://codeburst.io/a-step-by-step-guide-to-making-your-f
 - Create a separate new branch and name it `dev [team number]` and start editing. Please do not edit in the `master` branch and `dev` branch of other team.(team number is used instead of team name to keep the length of branch name short.)
 - Adding and commiting : **Sign** the commits you make (using`git -s -m "[Commit message]"`). Please write concise and understandable commit message.
 - After commiting check the status, if everything is clean **push** everything to your repo and make a pull request.
-- Every time you start working again **Fetch** the repo and start working so that the commits made by others is also preseved.
+- Every time you start working again **Fetch** the repo and start working so that your local repo will be in synchronization with the master.Follow [this](#Keeping-your-fork-synced-with-this-repository)
 
 # Resources
 
