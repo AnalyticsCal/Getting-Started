@@ -96,7 +96,7 @@ This should upload your changes to your GitHub account. \
 Now, you can propose these changes to the actual project by clicking on the **Pull Request** button on GitHub.
 
 ### Keeping your fork synced with this repository
-The best way to do it (guide by https://codeburst.io/):\
+The best way to do it (guide by https://codeburst.io/) :\
 Go to **step 7 [here](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)**
 
 ## Workflow
