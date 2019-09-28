@@ -10,6 +10,7 @@
         - [Editing files](#editing-files)
         - [Adding and commiting changes](#adding-and-commiting-changes)
         - [Pushing changes and submitting a Pull Request](#pushing-changes-and-submitting-a-pull-request)
+        - [Keeping your fork synced with this repository](#Keeping-your-fork-synced-with-this-repository)
     - [Workflow](#workflow)
 - [Resources](#resources)
 
@@ -94,12 +95,17 @@ git push origin [branch name]
 This should upload your changes to your GitHub account. \
 Now, you can propose these changes to the actual project by clicking on the **Pull Request** button on GitHub.
 
+### Keeping your fork synced with this repository
+The best way to do it (guide by https://codeburst.io/) :\
+Go to **step 7 [here](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)**
+
 ## Workflow
 
 - Please **fork** repo before editing and **clone** it to your local machine.(**fork** is a copy of the repo in your account and a **clone** is a copy downloaded into your local machine).
 - Create a separate new branch and name it `dev [team number]` and start editing. Please do not edit in the `master` branch and `dev` branch of other team.(team number is used instead of team name to keep the length of branch name short.)
 - Adding and commiting : **Sign** the commits you make (using`git -s -m "[Commit message]"`). Please write concise and understandable commit message.
 - After commiting check the status, if everything is clean **push** everything to your repo and make a pull request.
+- Every time you start working again **Fetch** the repo and start working so that the commits made by others is also preseved.
 
 # Resources
 
@@ -107,6 +113,7 @@ You can learn more about Git and GitHub here:
 
 - https://www.atlassian.com/git/tutorials
 - https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF 
+- https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
 
 # Acknowledgement
 
